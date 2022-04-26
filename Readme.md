@@ -1,0 +1,2 @@
+This folder is storing Rust projects aiming for learning its basic syntax and usage, for educational purposes. The class is framed atop of the UIUC CS128 Honors Section in 2022sp semester. 
+Lecture Playlist: https://www.youtube.com/playlist?list=PLezlz_6l_jm2MU-yfzKWerZV1rai71bw4
